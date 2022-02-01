@@ -2,3 +2,5 @@
 *.vmb
 doc/tags
 /README.html
+# ignore commit message
+.gitcommit
